@@ -29,6 +29,11 @@ location: Indonesia 🇮🇩
 role: Bot Developer & Automator
 languages: [Node.js, Python, Bash]
 environments: [Linux VPS, Termux/Android]
+interests:
+  - CLI Tools & TUI Dashboards
+  - Backend Engineering
+currently_building: "Something awesome 🚀"
+fun_fact: "while I sleep 😴"
 ```
 
 <br clear="right"/>
@@ -71,14 +76,14 @@ environments: [Linux VPS, Termux/Android]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OverHzn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OverHzn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=OverHzn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=OverHzn&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OverHzn&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=OverHzn&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff" />
 
 </div>
 
