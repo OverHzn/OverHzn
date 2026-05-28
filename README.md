@@ -29,13 +29,6 @@ location: Indonesia 🇮🇩
 role: Bot Developer & Automator
 languages: [Node.js, Python, Bash]
 environments: [Linux VPS, Termux/Android]
-interests:
-  - Automation Bots
-  - Web3 & Crypto Tools
-  - CLI Tools & TUI Dashboards
-  - Backend Engineering
-currently_building: "Something awesome 🚀"
-fun_fact: "My bots run 24/7 while I sleep 😴"
 ```
 
 <br clear="right"/>
