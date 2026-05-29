@@ -26,7 +26,7 @@
 ```yaml
 name: OverHzn
 location: Indonesia 🇮🇩
-role: Bot Developer & Automator
+role: Developer & Automator
 languages: [Node.js, Python, Bash]
 environments: [Linux VPS, Termux/Android]
 interests:
